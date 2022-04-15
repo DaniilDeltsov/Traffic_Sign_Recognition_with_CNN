@@ -1,6 +1,6 @@
 # Data
 
-### In this repository you can find all the data I collected and used while training and evaluating the CNN model.
+### In this repository you can find all the data I collected and used while training and evaluating the CNN model. Test folder 50k+ images (53455 total), train folder 205 subfolders with 95k+ images (97426 total).
 
 ### Test_data.csv
 
