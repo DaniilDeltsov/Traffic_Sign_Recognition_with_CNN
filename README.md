@@ -12,7 +12,7 @@
 
 ### What I aimed to do
 
-* Collect dataset with traffic signs, using already existing one (GTSDB);
+* Collect dataset with traffic signs, using already existing one (GTSRB);
 * Prepare data for model training;
 * Build CNN model capable of classifying traffic signs;
 * Train model on augmented images, excluding a small part of it to use in the test set;
